@@ -80,8 +80,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone or Download the repository
 
 	```
-	$ git clone https://github.com/soumanpaul/Developers-Profile-web-app
-	$ cd Developers-Profile-web-app
+	$https://github.com/Harsha6152/ecommerce-web-application
 	```
 2. Install Dependencies
    + run this commend in project directory
